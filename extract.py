@@ -5,6 +5,9 @@ import matplotlib.pyplot as plt
 from skimage.transform import radon, rescale, rotate
 import statistics
 
+# some comments
+# dsdddddd
+
 def main():
     PATH = "C:\\Users\\rybak\\Desktop\\Python programms\\MyProject\\picture_test_d2_hse.jpg"
 
